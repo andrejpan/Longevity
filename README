@@ -3,3 +3,5 @@ This program is an example from book: Python programming for the absolute beginn
 The Longevity program reveals the secret to living to the ripe old age of 100, if the user enters the secret password (the highly secure "secret"). The user enters the password in the text entry and then clicks the Submit button. If the password is correct, the program displays the key to longevity in the text box.
 
 For running this script you need python2.6 or instaling module tkinter manualy.
+
+KABUM!!!
